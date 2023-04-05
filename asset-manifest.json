@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Familly-Movies/static/css/main.f9cf9f3d.css",
+    "main.js": "/Familly-Movies/static/js/main.465470f9.js",
+    "static/js/787.051eb2ca.chunk.js": "/Familly-Movies/static/js/787.051eb2ca.chunk.js",
+    "index.html": "/Familly-Movies/index.html",
+    "main.f9cf9f3d.css.map": "/Familly-Movies/static/css/main.f9cf9f3d.css.map",
+    "main.465470f9.js.map": "/Familly-Movies/static/js/main.465470f9.js.map",
+    "787.051eb2ca.chunk.js.map": "/Familly-Movies/static/js/787.051eb2ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9cf9f3d.css",
+    "static/js/main.465470f9.js"
+  ]
+}
